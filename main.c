@@ -23,5 +23,3 @@ int division(int a, int b)
 	
 	return resultado;
 }
-/* Control de cambios 
- Hector Guarneros agrego funcion division*/
