@@ -5,7 +5,7 @@
 #define VARIABLE3 2
 #define VARIABLE1 3
 
-int suma(int a, int b);
+int division(int a, int b);
 
 int main(void)
 {
@@ -13,6 +13,14 @@ int main(void)
 	return 0;
 }
 
+
+int division(int a, int b)
+{
+	int resultado = 0;
+	
+	resultado = a/b;
+	
+	return resultado;
+}
 /* Control de cambios 
- * Jorge Luis Oficial 
- * Angel Guerrero */
+ Hector Guarneros agrego funcion division*/
