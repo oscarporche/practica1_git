@@ -5,7 +5,7 @@
 #define VARIABLE3 2
 #define VARIABLE1 3
 
-void suma(int a, int b);
+void nada(int a, int b);
 
 int main(void)
 {
