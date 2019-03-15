@@ -1,11 +1,11 @@
 #include <stdio.h>
-#include <math.h>
+#include <stdlib.h>
 
-#define VARIABLE  0
 #define VARIABLE2 1
 #define VARIABLE3 2
+#define VARIABLE1 3
 
-int resta(int a, int b);
+int suma(int a, int b);
 
 int main(void)
 {
@@ -13,4 +13,6 @@ int main(void)
 	return 0;
 }
 
-/* Control de cambios */
+/* Control de cambios 
+ * Jorge Luis Oficial 
+ * Angel Guerrero */
